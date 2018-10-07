@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-svg",
+  "version": "1.0.0",
+  "description": "My wondrous Nuxt.js project",
+  "author": "StriveNuby",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --port 3333",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "element-ui": "^2.4.8",
+    "nuxt": "^2.0.0",
+    "svg-sprite-loader": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
